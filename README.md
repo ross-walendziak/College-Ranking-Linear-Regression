@@ -15,10 +15,6 @@ Using Linear Regression to explain college rankings as a function of university 
 
 # Exploratory Data Analysis:
 
-# Code and Resources Used:
-
-# Exploratory Data Analysis:
-
 # Model Building:
 
 # Model Performance:
