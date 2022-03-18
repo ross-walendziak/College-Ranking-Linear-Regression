@@ -42,6 +42,6 @@ Using Linear Regression to explain college rankings as a function of university 
 * Further, the F-statistic, testing the joint significance of all three variables, is 39.68.  This F-stat indicates that we can reject the null hypothesis that all       three variables jointly have no effect on academic ranking by a wide margin (critical value 3.78 at the 1% alpha level).
 * Practically, the most useful result is that a $10,000 increase in average professor salary should increase a university’s ranking by about 7.4 ranking positions -     about one third of one standard deviation in the university ranking hierarchy.
 
-# Policiy Recommendations:
+# Policy Recommendations:
 * University administrations should focus on building their endowments to facilitate the ability to pay the highest earning professors, and more of them (decrease the   student-to-faculty ratio), with the end goal of increasing or retaining university ranking among peer universities.
 * University administrators should also be cognizant of the bias towards hiring male faculty members at top notch schools when making faculty hiring decisions.
